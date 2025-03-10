@@ -74,6 +74,9 @@ for row, item in publications.iterrows():
     
     md += """collection: publications"""
     
+    # 250310 추가
+    md += "\ncategory: " + item.category
+
     md += """\npermalink: /publication/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
@@ -82,11 +85,14 @@ for row, item in publications.iterrows():
     md += "\ndate: " + str(item.pub_date) 
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
+
+    # 250310 추가
+    #md += "\nslidesurl: '" + html_escape(item.slides_url) + "'"
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
     
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
+    #md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
     
@@ -98,7 +104,7 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    #md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
        
@@ -106,3 +112,16 @@ for row, item in publications.iterrows():
         f.write(md)
 
 
+### sample
+# ---
+# title: "Paper Title Number 1"
+# collection: publications
+# category: manuscripts
+# permalink: /publication/2009-10-01-paper-title-number-1_sample
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# date: 2009-10-01
+# venue: 'Journal 1'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# ---

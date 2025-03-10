@@ -1,4 +1,93 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url	slides_url
-2009-10-01	Paper Title Number 1	Journal 1	This paper is about the number 1. The number 2 is left for future work.	Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).	paper-title-number-1	http://academicpages.github.io/files/paper1.pdf	http://academicpages.github.io/files/slides1.pdf
-2010-10-01	Paper Title Number 2	Journal 1	This paper is about the number 2. The number 3 is left for future work.	Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).	paper-title-number-2	http://academicpages.github.io/files/paper2.pdf	http://academicpages.github.io/files/slides2.pdf
-2015-10-01	Paper Title Number 3	Journal 1	This paper is about the number 3. The number 4 is left for future work.	Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).	paper-title-number-3	http://academicpages.github.io/files/paper3.pdf	http://academicpages.github.io/files/slides3.pdf
+category	pub_date	url_slug	excerpt	title	venue	paper_url	slides_url
+manuscripts	2024-12-01	최수찬_AI,	Suchan Choi, Jinyoung Oh, Jeong-Won Cha	SAB: Self-Adaptive Bias	AI, 5(4), 2761-2772	https://doi.org/10.3390/ai5040133
+manuscripts	2024-12-01	조지원_Applied	Ji-Won Cho, Jinyoung Oh, Jeong-Won Cha	CGM: Copy Mechanism GPT with Mask for Ellipsis and Anaphora Resolution in Dialoguge	Applied Sciences, 15(1), 5	https://doi.org/10.3390/app15010005
+manuscripts	2024-01-01	곽민주_Lightweight	Minju Gwak, Jeong-Won Cha, Hosun Yoon, Donghyun Kang, Donghyeok An	Lightweight Transformer Model for Mobile Application Classification	Sensors, 24(2):564	https://doi.org/10.3390/s24020564
+conferences	2024-01-01	최수찬_Prefix	최수찬, 차정원	Prefix Fine Tuning을 이용한 분류 모델	한국 컴퓨터 종합학술대회(KCC)
+conferences	2024-01-01	오채민_대화에서	오채민, 차정원	대화에서 프롬프트 기반 문맥 추론	한국 컴퓨터 종합학술대회(KCC)
+conferences	2024-01-01	오채민_벡터	오채민, 차정원	벡터 프롬프트 기반 미세조정을 이용한 매뉴얼 텍스트 스타일 변환	한국 컴퓨터 종합학술대회(KCC)
+conferences	2024-01-01	조지원_대화에서	조지원, 차정원	대화에서 프롬프트를 이용한 생략 복원	한국 컴퓨터 종합학술대회(KCC)
+conferences	2024-01-01	오진영_의사	오진영, 차정원	의사 문장쌍을 이용한 패러프레이징	한국 컴퓨터 종합학술대회(KCC)
+manuscripts	2024-01-01	오진영_언어지식에	오진영, 차정원	언어지식에 기반한 의사문장 쌍을 이용한 패러프레이징 생성	한국정보전자통신기술학회
+manuscripts	2023-01-01	성수진_Domain	Seong S, Cha J	Domain Word Extension Using Curriculum Learning	Sensors, 2023; 23(6):3064	https://doi.org/10.3390/s23063064
+conferences	2023-01-01	오진영_프롬프트를	오진영, 차정원	프롬프트를 이용한 관계 추출	한국 컴퓨터 종합학술대회(KCC)
+conferences	2023-01-01	성수진_외부	성수진, 차정원	외부 지식 검색기 기반 퓨샷 토픽 분류 모델	한국 컴퓨터 종합학술대회(KCC)
+conferences	2023-01-01	오채민_상세개체	오채민, 성수진, 이승우, 차정원	상세개체 태깅에 대한 과학기술 분야 사전학습 언어모델 활용성 검증	한국 컴퓨터 종합학술대회(KCC)
+conferences	2022-01-01	김헤이즐_ALP	Hazel Kim, Daecheol Woo, Seong Joon Oh, Jeong-Won Cha, Yo-Sub Han	ALP: Data Augmentation Using Lexicalized PCFGs for Few-Shot Text Classification	Proceedings of the AAAI Conference on Artificial Intelligence 36(10):10894-10902, June 2022
+conferences	2022-01-01	성수진_분류체계	성수진,  차정원	분류체계 자동 생성 지원을 위한 용어 벡터 생성 방법 탐색	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2022-01-01	오진영_문맥	오진영, 차정원	문맥 정보 조절을 통한 관계 추출 성능 개선	한글 및 한국어정보처리 학술대회(HCLT)
+manuscripts	2022-01-01	박다솔_복사	박다솔, 차정원	(KSC2020 우수발표논문) 복사 매커니즘을 이용한 한국어-제주어 기계번역	정보과학회 컴퓨팅의 실제 논문지 제 28권 제 3호
+conferences	2022-01-01	성수진_지식베이스	성수진, 차정원	(KCC2022 우수논문) 지식베이스 기반 근거 문장을 제공하는 질의응답 모델	한국 컴퓨터 종합학술대회(KCC)
+conferences	2022-01-01	홍성태_키워드를	홍성태, 차정원	키워드를 이용한 패러프레이즈 문장 생성	한국 컴퓨터 종합학술대회(KCC)
+conferences	2022-01-01	문성후_미분가능한	문성후, 차정원	미분가능한 BLEU loss를 이용한 NAR 패러프레이징 생성 모델	한국 컴퓨터 종합학술대회(KCC)
+conferences	2022-01-01	노다설_CoLA	노다설, 차정원	(KCC2022 학부생부문 장려상)CoLA 데이터에 적합한 딥러닝 사전 학습 모델 탐색	한국 컴퓨터 종합학술대회(KCC)
+manuscripts	2021-01-01	성수진_단어	성수진, 차정원	(KCC2020 우수발표논문) 단어 손실함수와 반복패널티를 추가한 트랜스포머 인코더-디코더 제목 생성 모델	정보과학회 컴퓨팅의 실제 논문지 제 27권 제 4호
+manuscripts	2021-01-01	오진영_뉴럴-심볼릭	오진영, 차정원	(HCLT 2020 우수논문) 뉴럴-심볼릭 구조 기반의 관계 추출	정보과학회 컴퓨팅의 실제 논문지 제27권 제 5호
+conferences	2021-01-01	박다솔_문장	박다솔, 장두성, 차정원	문장 유사도를 이용한 다양한 표현의 패러프레이즈 생성	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2021-01-01	성수진_불균형	성수진, 박원주, 이용태, 차정원	불균형 범주 분류를 위한 동적 샘플링 스케쥴러	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2021-01-01	성수진_문맥	성수진, 김성찬, 이승우, 차정원	문맥 정보를 이용한 논문 문장 수사학적 분류	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2021-01-01	홍성태_NLTKo	홍성태, 차정원	NLTKo 1.0: 한국어 언어처리 도구	한글 및 한국어정보처리 학술대회(HCLT)
+manuscripts	2021-01-01	성수진_Explainable	Su-Jin Seong, Ji-Uk Yoon, Jeong-Won Cha	Explainable Deep Neural Networks for Anesthesia Treatment, Anesthesia & Analgesia.,	(will be appeared)
+manuscripts	2020-01-01	신창욱_범주	신창욱, 오진영, 차정원	범주 불균형 분류 문제를 위한 동적 비용 민감 학습 방법	정보과학회 컴퓨팅의 실제 논문지 제 26권 제 4호
+conferences	2020-01-01	신창욱_Multi-domain	Chang-Uk Shin, Jeong-Won Cha	Multi-domain Task Oriented Dialogue System Using Word Constraints	AAAI(Association for the Advancement of Artificial Intelligence)
+conferences	2020-01-01	신창욱_멀티태스크	신창욱, 장두성, 차정원	멀티태스크 학습을 이용한 대화 상태 추적 시스템	한국 컴퓨터 종합학술대회(KCC)
+conferences	2020-01-01	성수진_단어	성수진, 이승우, 차정원	단어 손실함수를 추가한 트랜스포머 인코더-디코더 기반의 제목 생성 모델	한국 컴퓨터 종합학술대회(KCC)
+conferences	2020-01-01	오진영_뉴럴-심볼릭	오진영, 차정원	뉴럴-심볼릭 구조 기반의 관계 추출	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2020-01-01	박다솔_트랜스포머와	박다솔, 차정원	트랜스포머와 판별기를 이용한 비병렬 데이터의 텍스트 스타일 변환	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2020-01-01	박다솔_포인터	박다솔, 김영길, 차정원	포인터 생성 네트워크를 이용한 패러프레이즈 생성	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2020-01-01	신창욱_규칙	신창욱, 장두성, 차정원	규칙 및 통계 기반 시스템의 결과를 활용하는 대화 상태 추적 시스템의 개발 및 사용자 시뮬레이터를 이용한 평가	한글 및 한국어정보처리 학술대회(HCLT)
+manuscripts	2020-01-01	성수진_마취용	성수진, 권수범, 윤지욱, 오진영, 차정원	마취용 처치 추천을 위한 설명 가능한 딥뉴럴 네트워크	정보과학회 컴퓨팅의 실제 논문지 제 26권 제 12호
+conferences	2020-01-01	박다솔_복사	박다솔, 차정원	복사 매커니즘을 이용한 한국어-제주어 기계번역	한국 소프트웨어 종합 학술대회(KSC)
+conferences	2020-01-01	성수진_리워드를	성수진, 차정원	리워드를 이용한 설명 가능 마취용 처치 추천 딥뉴럴 네트워크	한국 소프트웨어 종합 학술대회(KSC)
+conferences	2019-01-01	성수진_마취용	성수진, 권수범, 윤지욱, 오진영, 차정원	마취용 처지 추전을 위한 설명 가능한 딥뉴럴 네트워크	한국 소프트웨어 종합 학술대회(KSC)
+conferences	2019-01-01	김민석_XLNet을	김민석, 신창욱, 오진영, 차정원	XLNet을 이용한 한국어 구문분석	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2019-01-01	박다솔_심층	박다솔, 손정우, 김선중, 차정원	심층 네트워크의 과계산에 대한 고찰	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2019-01-01	김정무_다중	김정무, 이승우, 차정원	다중 정보와 Self-Attention을 이용한 관계 추출	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2019-01-01	성수진_깊이에	성수진, 차정원	깊이에 따른 중간 단계 분류기 내부 학습 경향 분석 및 고찰	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2019-01-01	오진영_GAN에서	오진영, 차정원	GAN에서 그래프 탐색을 이용한 유창한 문장 생성	한글 및 한국어정보처리 학술대회(HCLT)
+conferences	2019-01-01	박다솔_Multi-head	박다솔, 손정우, 김선중, 차정원	Multi-head Self-Attention을 이용한 비디오 캡션 생성	한국 컴퓨터 종합학술대회(KCC)
+conferences	2019-01-01	신창욱_범주	신창욱, 차정원	범주 불균형 분류 문제를 위한 동적 비용 민감 학습	한국 컴퓨터 종합학술대회(KCC)
+conferences	2019-01-01	오진영_유전	오진영, 차정원	유전 알고리즘을 이용한 텍스트 GAN	한국 컴퓨터 종합학술대회(KCC)
+conferences	2019-01-01	신창욱_동적	신창욱, 권오욱, 차정원	동적 가중치 부여 다중 비용 함수를 이용한 범주 불균형 데이터 분류	한국 컴퓨터 종합학술대회(KCC)
+conferences	2019-01-01	성수진_합성곱	성수진, 방준성, 차정원	합성곱 신경망 구조를 이용한 문서 범주 관련 키워드 추출	한국 컴퓨터 종합학술대회(KCC)
+conferences	2019-01-01	오진영_Weighted	오진영, 김정무, 차정원	Weighted BLEU: 단어 가중치 기반 BLEU	한국 컴퓨터 종합학술대회(KCC)
+manuscripts	2019-01-01	박다솔_객체	박다솔, 차정원	객체 Attention을 이용한 이미지 캡션 생성	한국 정보과학회 논문지
+conferences	2019-01-01	신창욱_Top-K	Chang-Uk Shin, Jeong-Won Cha	Top-K Attention Mechanism for Complex Dialogue System	DSTC7
+manuscripts	2018-01-01	박다솔_퍼지	박다솔, 차정원	퍼지 범주 표현과 준지도 심층 신경망을 이용한 트위터 혐오 발언 문장 탐지	한국 정보과학회 논문지
+conferences	2018-01-01	성수진_CNN	성수진, 신창욱, 박성재, 차정원	CNN Sequence-to-Sequence를 이용한 대화 시스템 생성	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2018-01-01	신창욱_대화에서	신창욱, 차정원	대화에서 멀티태스크 학습을 이용한 감정 및 화행 분류	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2018-01-01	김정무_Q-Net:질문	김정무, 신창욱, 차정원	Q-Net:질문 유형을 추가한 기계 독해	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2018-01-01	성수진_Multi-Task	성수진, 박성재, 정인규, 차정원	Multi-Task Learning에서 공유 공간과 성능과의 관계 탐구	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2018-01-01	하은주_국어	하은주, 오진영, 차정원	국어 감정분석을 위한 말뭉치 구축 가이드라인 및 말뭉치 구축 도구	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2018-01-01	오진영_Ontofitting	오진영, 차정원	Ontofitting: 의미 표현을 위한 벡터 조정	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2018-01-01	성수진_Epidemic	Su-Jin Seong, Seong-Jae Park, Tae-Ho Park, Chang-Uk Shin, Da-Sol Park, Jeong-MooKim, Jeong-Won Cha	Epidemic Respiratory Disease Prediction Using Ensemble Method	International Conference on Future Information & Communication Engineering(ICFICE)
+manuscripts	2018-01-01	박태호_세종	박태호, 차정원	세종 형태의미분석 말뭉치와 세종의미사전의 용언 의미번호 불일치 문제 해결	한국정보과학회 논문지
+conferences	2018-01-01	신창욱_End-to-End	Chang-Uk Shin, Jeong-Won Cha	End-to-End Task Dependent Recurrent Entity Network for Goal-Oriented Dialog Learning	Computer Speech & Language
+conferences	2017-01-01	박정열_Open	Jung-Yeul Park, Jeong-Won Cha, Mija Kim	Open Language Resources for Korean–Best practices and discussion for Korean language processing	Language Resources and Evaluation(LRE)
+conferences	2017-01-01	박다솔_준지도	박다솔, 신창욱, 신영태, 차정원	준지도 학습 심층 신경망을 이용한 트위터 혐오 발언 문장 탐지	한국 소프트웨어 종합 학술대회(KSC)
+conferences	2017-01-01	성수진_일별	성수진, 박성재, 차정원	일별 굴 생산량의 예측 가능성에 관한 연구	한국 소프트웨어 종합 학술대회(KSC)
+conferences	2017-01-01	신창욱_Dynamic	신창욱, 차정원	Dynamic Memory Network를 이용한 End-to-End 레스토랑 예약 대화 시스템	한국 소프트웨어 종합 학술대회(KSC)
+conferences	2017-01-01	신창욱_Learning	Chang-Uk Shin, Jeong-Won Cha	Learning Dynamic Memory Networks with Two Views	Dialog System Technology Challenges(DSTC)
+conferences	2017-01-01	박정열_Building	Jung-Yeul Park, Loic Dugast, Jeen-Pyo Hong, Chang-Uk Shin, Jeong-Won Cha	Building a Better Bitext for Structurally Different Languages through Self-training	IJCNLP 2017 Workshop on Curation and Application of Parallel and Comparable Corpora(Cupral)
+conferences	2017-01-01	박성재_LSTM을	박성재, 차정원	LSTM을 이용한 한국어 이미지 캡션 생성	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2017-01-01	신창욱_MTRNN을	신창욱, 차정원	MTRNN을 이용한 한국어 대화 모델 생성	한글 및 한국어 정보처리 학술대회(HCLT)
+manuscripts	2017-01-01	박다솔_워드	박다솔, 차정원	워드 임베딩과 유의어를 활용한 단어 의미 범주 할당	한국정보과학회 논문지
+conferences	2017-01-01	박태호_형태	박태호, 차정원	형태 의미 정보를 이용한 한국어 의미역 결정	한국 컴퓨터 종합학술대회(KCC)
+conferences	2017-01-01	신창욱_skip-thought	신창욱, 차정원	skip-thought 벡터를 이용한 한국어 의미 표현	한국 컴퓨터 종합학술대회(KCC)
+conferences	2017-01-01	박성재_CNN을	박성재, 차정원	CNN을 이용한 대화와 같은 짧은 문장에서 개체명 인식	한국 컴퓨터 종합학술대회(KCC)
+manuscripts	2017-01-01	박다솔_Extension	Da-Sol Park, Jeong-Won Cha	Extension of Semantic Lexicon Using Word Embeddings and Synonyms	INFORMATION-An International Interdisciplinary Journal
+manuscripts	2017-01-01	박태호_Feature	Tae-Ho Park, Jeong-Won Cha	Feature verification for Korean Semantic Role Labeling	INFORMATION-An International Interdisciplinary Journal
+conferences	2016-01-01	박태호_한국어	박태호, 신창욱, 박성재, 박다솔, 신영태, 차정원	한국어 의미 분석을 위한 세종의미망 확장	정보과학회 동계학술대회
+conferences	2016-01-01	박정열_Korean	Jung-Yeul Park, Jeen-Pyo Hong, Jeong-Won Cha	Korean Language Resources for Everyone, Pacific Asia Conference on Language	Information and Computation(PACLIC)
+conferences	2016-01-01	박다솔_워드	박다솔, 차정원	워드 임베딩을 이용한 세종 전자사전 확장	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2016-01-01	박태호_CRF를	박태호, 차정원	CRF를 이용한 복수 의미역 문제 해결	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2016-01-01	박태호_Korean	박태호, 차정원	Korean Semantic Role Labeling Using CRFs	IICCC, 2016
+manuscripts	2016-01-01	박태호_CRFs	박태호, 차정원	CRFs 기반의 한국어 의미역 부착 성능 향상을 위한 자질 선택	한국정보과학회지
+conferences	2016-01-01	박태호_Rough	박태호, 신창욱, 박성재, 박다솔, 차정원	Rough Set을 이용한 형태소 품사 태깅 코퍼스 오류 정량화	한국 컴퓨터 종합학술대회 논문집(KCC)
+conferences	2016-01-01	신창욱_Improving	신창욱, 차정원	Improving Korean dependency parsing performance using predicate-argument features	APIC-IST2016
+manuscripts	2016-01-01	최윤수_Word	최윤수, 차정원	Word Embedding 자질을 이용한 한국어 개체명 인식 및 분류	한국정보과학회
+manuscripts	2016-01-01	박태호_커널	박태호, 차정원	커널 Ripple-Down Rule을 이용한 태깅 말뭉치 오류 자동 수정	한국정보과학회
+conferences	2015-01-01	신창욱_CRFs를	신창욱, 차정원	CRFs를 이용한 구문분석기의 오류 분석 및 자질 추천	정보과학회 동계학술대회
+conferences	2015-01-01	최윤수_Word	최윤수, 차정원	Word Embeddings 자질을 이용한 한국어 개체명 인식 및 분류	정보과학회 동계학술대회
+conferences	2015-01-01	박태호_CRFs	박태호, 차정원	CRFs 기반의 한국어 의미역 결정	한글 및 한국어 정보처리 학술대회(HCLT)
+conferences	2015-01-01	신창욱_Khann	신창욱, 박성재, 차정원	Khann 2 : 경험기반 고효율 한국어 품사태깅 도구	한국 컴퓨터 종합학술대회(KCC)
+conferences	2015-01-01	김중한_개체명	김중한, 최윤수, 박태호, 차정원	개체명 부착 말뭉치에서 자동 오류 수정	한국 컴퓨터 종합학술대회(KCC)
