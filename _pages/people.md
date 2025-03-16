@@ -40,8 +40,8 @@ Undergraduate students
 ======
 
 <img src="/images/people/KimDoWon.jpeg" width="100" height="100"> 김도원<br/>
-<img src="/images/people/default.jpg" width="100" height="100"> 서현우<br/>
-<img src="/images/people/default.jpg" width="100" height="100"> 이예나<br/>
+<img src="/images/people/SeoHyeonWoo.JPG" width="100" height="100"> 서현우<br/>
+<img src="/images/people/LeeYeNa.jpg" width="100" height="100"> 이예나<br/>
 <img src="/images/people/JinSongMi.jpg" width="100" height="100"> 진송미<br/>
 <img src="/images/people/LeeSuBin.jpg" width="100" height="100"> 이수빈<br/>
 <br/>
