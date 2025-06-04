@@ -26,7 +26,7 @@ Ph.D. students
 
 Master students
 ======
-  
+
 <img src="/images/people/ChoiSuChan.jpeg" width="100" height="100"> 최수찬<br/>
 <img src="/images/people/ChoJiWon.jpg" width="100" height="100"> 조지원<br/>
 <img src="/images/people/ParkSongWon.jpg" width="100" height="100"> 박송원<br/>
@@ -43,7 +43,9 @@ Undergraduate students
 <img src="/images/people/SeoHyeonWoo.JPG" width="100" height="100"> 서현우<br/>
 <img src="/images/people/LeeYeNa.jpg" width="100" height="100"> 이예나<br/>
 <img src="/images/people/JinSongMi.jpg" width="100" height="100"> 진송미<br/>
-<img src="/images/people/LeeSuBin.jpg" width="100" height="100"> 이수빈<br/>
+<img src="/images/people/default.jpg" width="100" height="100"> 박우현<br/>
+<img src="/images/people/default.jpg" width="100" height="100"> 정찬혁<br/>
+<!-- <img src="/images/people/LeeSuBin.jpg" width="100" height="100"> 이수빈<br/> -->
 <br/>
 <br/>
 <br/>
