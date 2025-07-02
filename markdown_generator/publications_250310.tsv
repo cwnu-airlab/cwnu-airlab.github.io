@@ -1,4 +1,7 @@
 category	pub_date	url_slug	excerpt	title	venue	paper_url	slides_url
+conferences	2025-07-02	이예나_NLTKor	이예나, 차정원	NLTKor : 한국어 언어처리 도구	한국 컴퓨터 종합학술대회(KCC)
+conferences	2025-07-02	진송미_Espresso5	진송미, 오진영, 차정원	Espresso5: 딥러닝을 이용한 경량화 한국어 분석기	한국 컴퓨터 종합학술대회(KCC)
+conferences	2025-06-22	오진영_보편적	오진영, 차정원	보편적 근사자를 이용한 관계 추출 모델	2025년 하계학술대회(한국방송.미디어공학회)
 manuscripts	2024-12-01	최수찬_AI,	Suchan Choi, Jinyoung Oh, Jeong-Won Cha	SAB: Self-Adaptive Bias	AI, 5(4), 2761-2772	https://doi.org/10.3390/ai5040133
 manuscripts	2024-12-01	조지원_Applied	Ji-Won Cho, Jinyoung Oh, Jeong-Won Cha	CGM: Copy Mechanism GPT with Mask for Ellipsis and Anaphora Resolution in Dialoguge	Applied Sciences, 15(1), 5	https://doi.org/10.3390/app15010005
 manuscripts	2024-01-01	곽민주_Lightweight	Minju Gwak, Jeong-Won Cha, Hosun Yoon, Donghyun Kang, Donghyeok An	Lightweight Transformer Model for Mobile Application Classification	Sensors, 24(2):564	https://doi.org/10.3390/s24020564
